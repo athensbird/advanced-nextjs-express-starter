@@ -14,6 +14,12 @@ class IndexPage extends React.Component {
         <Link href="/about">
           <a>About</a>
         </Link>
+        <Link href="/list">
+          <a>View Peple</a>
+        </Link> #nbsp
+        <Link href="/create">
+          <a>Create a Person</a>
+        </Link>
       </div>
     );
   }

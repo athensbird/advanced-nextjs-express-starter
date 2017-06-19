@@ -12,10 +12,18 @@
     "lint": "eslint src"
   },
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.3",
+    "mongoose": "^4.10.7",
     "next": "beta",
+    "next-redux-wrapper": "^1.1.2",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.0",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-thunk": "^2.2.0",
+    "whatwg-fetch": "^2.0.3"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
